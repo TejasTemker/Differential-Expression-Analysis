@@ -9,9 +9,9 @@ In light of the significance of Alzheimer's disease and the current lack of effe
 identify the key genetic markers associated with the disease. Through the application of advanced bioinformatics methods applied to diverse omics datasets,
 I hope to make substantial strides in understanding the complex pathology of Alzheimer's disease.
 ##datbases/Webserver used
-●	GEO (Gene Expression Omnibus)
-●	DAVID (Database for Annotation, Visualization, and Integrated Discovery)
-●	TOPPFUN (Transcriptome, ontology, phenotype, proteome, and pharmacome annotations-based gene list functional enrichment analysis)
+- GEO (Gene Expression Omnibus)
+- DAVID (Database for Annotation, Visualization, and Integrated Discovery)
+- TOPPFUN (Transcriptome, ontology, phenotype, proteome, and pharmacome annotations-based gene list functional enrichment analysis)
 ## Raw data selection 
 The Raw data i.e., Gene expression datasets from GEO (Gene Expression Omnibus) database which is GSE138260 [16]. In this database, array- and sequence
 based data are accepted. Tools are provided to help users query and download experiments and curated gene expression profiles. Differential expression
@@ -55,3 +55,19 @@ about the role of epigenetics in Alzheimer's disease (AD).
 ## Conclusion
 From the above research we could identify that the following genes DNA methyltransferase 1, Myosin VA, Pvt1 oncogene were differentially expressed. The
 gene DNMT1 was found being expressed in patients of Alzheimer's disease. The following gene DNMT1 can be used as functional biomarker for Alzheimer's 
+
+## citations 
+- [1]. Lin-lin Wang, Li Min, Qing-dong Guo, Jun-xia Zhang, Hai-lun Jiang, Shuai Shao, Jian-guo Xing, Lin-lin Yin, Jiang-hong Liu, Rui Liu, Shui-long Guo,
+"Profiling microRNA from Brain by Microarray in a Transgenic Mouse Model of Alzheimer’s Disease", BioMed Research International, vol. 2017, Article ID
+8030369, 11 pages, 2017. https://doi.org/10.1155/2017/8030369
+- [2]. Liu L, Wu Q, Zhong W, Chen Y, Zhang W, Ren H, Sun L, Sun J. Microarray Analysis of Differential Gene Expression in Alzheimer's Disease Identifies
+Potential Biomarkers with Diagnostic Value. Med Sci Monit. 2020 Jan 27;26: e919249. doi: 10.12659/MSM.919249. PMID: 31984950; PMCID: PMC7001516.
+- [3]. Wong J: Altered Expression of RNA Splicing Proteins in Alzheimer's Disease Patients: Evidence from Two Microarray Studies. Dement Geriatr Cogn Disord
+Extra 2013;3:74-85. doi: 10.1159/000348406
+- [4]. Guttula, Satya & Allam, Apparao & Gumpeny, R. (2012). Analyzing Microarray Data of Alzheimer's Using Cluster Analysis to Identify the Biomarker
+Genes.
+International journal of Alzheimer's disease. 2012. 649456. 10.1155/2012/649456.
+- [5]. Miller, J.A., Woltjer, R.L., Goodenbour, J.M. et al. Genes and pathways underlying regional and cell type changes in Alzheimer's disease. Genome Med
+5, 48 (2013). https://doi.org/10.1186/gm45
+## Author
+Tejas Temker
