@@ -8,7 +8,7 @@ combination of both genetic and environmental factors.
 In light of the significance of Alzheimer's disease and the current lack of effective treatments,our research aims to utilize Microarray technology to
 identify the key genetic markers associated with the disease. Through the application of advanced bioinformatics methods applied to diverse omics datasets,
 I hope to make substantial strides in understanding the complex pathology of Alzheimer's disease.
-##datbases/Webserver used
+## datbases/Webserver used
 - GEO (Gene Expression Omnibus)
 - DAVID (Database for Annotation, Visualization, and Integrated Discovery)
 - TOPPFUN (Transcriptome, ontology, phenotype, proteome, and pharmacome annotations-based gene list functional enrichment analysis)
